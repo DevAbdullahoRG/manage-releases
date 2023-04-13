@@ -7,3 +7,5 @@ Manage GitHub Releases
 - Edit an existing release
 - Delete a release
 - Configure release notes
+
+This change (PR) will be excluded from appearing in the release notes.
